@@ -1,4 +1,4 @@
-# Making-of-Artificial-Intelligence
+# Making-of-Artificial-Intelligence (Article Medium)
 An expository-informative presentation about "Making of Artificial Intelligence" 
 
 You can read about it on <a href='https://medium.com/@mshayanb/creation-making-of-artificial-intelligence-1de8a3f1a851'>my article</a> , on medium.
